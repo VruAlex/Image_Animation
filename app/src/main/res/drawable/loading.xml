@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <!-- First -->
+    <item
+        android:drawable="@drawable/new1"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new2"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new3"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new4"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new5"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new6"
+        android:duration="200" />
+
+    <!-- Second -->
+    <item
+        android:drawable="@drawable/new1"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new2"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new3"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new4"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new5"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new6"
+        android:duration="200" />
+
+    <!-- Third -->
+    <item
+        android:drawable="@drawable/new1"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new2"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new3"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new4"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new5"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new6"
+        android:duration="200" />
+
+    <!-- Fourth -->
+    <item
+        android:drawable="@drawable/new1"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new2"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new3"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new4"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new5"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new6"
+        android:duration="200" />
+
+
+    <!-- Fifth -->
+    <item
+        android:drawable="@drawable/new1"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new2"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new3"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new4"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new5"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new6"
+        android:duration="200" />
+
+
+    <!-- Sixth -->
+    <item
+        android:drawable="@drawable/new1"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new2"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new3"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new4"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new5"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new6"
+        android:duration="200" />
+
+
+    <!-- Seventh -->
+    <item
+        android:drawable="@drawable/new1"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new2"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new3"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new4"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new5"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/new6"
+        android:duration="200" />
+
+</animation-list>

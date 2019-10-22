@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Image_Animation</string>
+
+
+    <string name="Place">Place Order</string>
+    <string name="Cancel">Cancel Order</string>
+    <string name="Text">Andy, we are setting \nup yor Order</string>
+
+</resources>
